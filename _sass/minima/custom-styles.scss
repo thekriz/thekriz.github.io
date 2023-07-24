@@ -1,2 +1,15 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+.mt-0 {margin-top:0!important}
+.ml-4 {margin-left:1.5rem!important}
+.h4 {margin-top:0;margin-bottom:.5rem;font-weight:500;line-height:1.2;font-size:1.5rem}
+.text-secondary {--bs-text-opacity:1;color:rgba(var(--bs-secondary-rgb),var(--bs-text-opacity))!important}
+.text-left {text-align:left!important}
+.text-center {text-align:center!important}
+.text-right {text-align:right!important}
+.align-top {vertical-align:top!important}
+.text-truncate {overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.pt-3 {padding-top:1rem!important}
+.px-1 {padding-right:.25rem!important;padding-left:.25rem!important}
+.p-0 {padding:0!important}
+.no-border {border:0px!important}

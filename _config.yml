@@ -1,7 +1,7 @@
 title: thekriz.github.io
 author:
-  name: ""
-  email: ""
+  name: "Park Chan-Kyu"
+  email: "c9ykpark@gmail.com"
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -49,7 +49,6 @@ minima:
 #
   header_pages:
     - about.md
-    - posts.md
 
 
 # Set to `true` to show excerpts on the homepage.
